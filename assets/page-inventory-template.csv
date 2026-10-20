@@ -1,0 +1,2 @@
+path,status,indexable,http_status,canonical_path,redirect_to,page_family,primary_query,title,meta_description,unique_facts,content_hash,lastmod,notes
+/example/page,candidate,false,200,/example/page,,example,example query,Example page title,Example meta description for a programmatic page. Replace every field.,0,,2026-10-21,Replace this row
